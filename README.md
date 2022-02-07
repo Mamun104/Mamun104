@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamud Mamunur Rashid </h1>
-<h3 align="center">I am a full-stack SQA and test automation engineer having 3 years of experience in a/several software firms. I have great/vast experience in HR Payroll, Financial Software, Medical management, news portal, eCommerce, and so on. My career objective is to work in a reputed software company so that I can keep my contribution there as well as work with the latest technology.</h3>
+<h3 align="center">I am a full-stack SQA and test automation engineer having 3 years of experience in the software firms. I have great experience in HR Payroll, Financial Software, Medical management, news portal, eCommerce, and so on. My career objective is to work in a reputed software company so that I can keep my contribution there as well as work with the latest technology.</h3>
 
 <h3 align="center">📫Connect with me:</h3>
 <p align="center">
