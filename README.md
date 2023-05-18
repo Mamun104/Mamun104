@@ -26,11 +26,9 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Mamun104&show_icons=true&theme=radical">
   </a>
+  <br>
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Mamun104&theme=react&background=0d1117&border=666">
   </a>
-  <br>
-  <a href="https://github.com/salmansrabon/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Mamun104&theme=react-dark&hide_border=true">
-  </a>
+  
 </p>
