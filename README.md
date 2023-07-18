@@ -2,9 +2,6 @@
 ![a0db04b8-b575-11e5-9dfd-51fbf7c58de8](https://github.com/Mamun104/Mamun104/assets/78067017/8b38811b-df50-4d20-b96b-2154bb859e0e)
 <br>
 <br>
-![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/223e6792880429.5e569ff84ebef.gif)
-
-<br>
 <h1 align="center">Hi 👋, I'm Muhammad Mamunur Rashid </h1>
 <h3 align="justify">I am a full-stack SQA and test automation engineer. Looking for a challenging and rewarding position in a reputed organization with potential advancement opportunities that will allow me to utilize and enhance my professional skills and abilities.I have great experience in HR Payroll, Financial Software, Medical management, news portal, eCommerce, CRM System , Engineering Management, Flight Schedule, Ticket Booking System and so on. My career objective is to work in a reputed software company so that I can keep my contribution there as well as work with the latest technology.</h3>
 <h1></h1>
