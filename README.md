@@ -4,6 +4,9 @@
 <br>
 <h1 align="center">Hi 👋, I'm Muhammad Mamunur Rashid </h1>
 <h3 align="justify">I am a full-stack SQA and test automation engineer. Looking for a challenging and rewarding position in a reputed organization with potential advancement opportunities that will allow me to utilize and enhance my professional skills and abilities.I have great experience in HR Payroll, Financial Software, Medical management, news portal, eCommerce, CRM System , Engineering Management, Flight Schedule, Ticket Booking System and so on. My career objective is to work in a reputed software company so that I can keep my contribution there as well as work with the latest technology.</h3>
+
+<img width="2056" height="765" alt="f237242c-c0d1-4d26-9638-5f94a89838de" src="https://github.com/user-attachments/assets/5bb0ed1c-3ac3-4ff4-8421-3c106b4074b7" />
+
 <h1></h1>
 <h3 align="center">📫Connect with me:</h3>
 <p align="center">
